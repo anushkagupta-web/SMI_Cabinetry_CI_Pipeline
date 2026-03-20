@@ -1,6 +1,6 @@
-# SMI Cabinetry CI Pipeline Demo
+# SMI Cabinetry CI Pipeline Demo 
 
-Simple Flask API for demonstrating GCP Cloud Build CI pipeline.
+Simple Flask API for demonstrating GCP Cloud Build CI pipeline. (Only for Practice Purpose)
 
 ## Project Structure
 
